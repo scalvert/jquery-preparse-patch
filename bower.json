@@ -1,0 +1,13 @@
+{
+  "name": "jquery",
+  "license": "MIT",
+  "version": "2.1.4",
+  "keywords": [
+    "jquery",
+    "javascript",
+    "library"
+  ],
+  "main": "dist/jquery.js",
+  "homepage": "https://github.com/jquery/jquery",
+  "dependencies": {}
+}
