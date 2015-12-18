@@ -13,6 +13,9 @@
  */
 
 (function( window, noGlobal ) {
+if (!window.document) {
+  return;
+}
 
 // Support: Firefox 18+
 // Can't be in strict mode, several libs including ASP.NET trace
